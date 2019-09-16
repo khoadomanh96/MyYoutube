@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:3:5-34
+		INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml
+		INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml
+		ADDED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:2:1-7:12
+		INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml
+		ADDED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:2:1-7:12
+		INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:5:3-44
+INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:5:3-44
+INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:5:3-44
+INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:5:3-44
+INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:5:3-44
+	android:targetSdkVersion
+		ADDED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:5:13-42
+		INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml
+		INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml
+		ADDED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml:5:3-44
+		INJECTED from /home/khoado/Documents/android-project/example_code/MyYoutube/draggablepanel/AndroidManifest.xml

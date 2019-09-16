@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/khoado/Documents/android-project/example_code/MyYoutube/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/khoado/.gradle/caches/transforms-2/files-2.1/3989bb2929108a1be72bcb0ec1268374/jetified-actionbarsherlock-4.4.0/res/values-w480dp/values.xml",
+                    "from": {
+                        "startLines": "4,6,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "179,359,555",
+                        "endColumns": "55,72,61",
+                        "endOffsets": "230,427,612"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,111,184",
+                        "endColumns": "55,72,61",
+                        "endOffsets": "106,179,241"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/khoado/Documents/android-project/example_code/MyYoutube/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-land-mdpi-1024x600-v4/values-large-land-mdpi-1024x600-v4.xml",
+            "map": [
+                {
+                    "source": "/home/khoado/.gradle/caches/transforms-2/files-2.1/3989bb2929108a1be72bcb0ec1268374/jetified-actionbarsherlock-4.4.0/res/values-large-land-mdpi-1024x600/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "198,261,330,400,466,533",
+                        "endColumns": "62,68,69,65,66,62",
+                        "endOffsets": "256,325,395,461,528,591"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,118,187,257,323,390",
+                        "endColumns": "62,68,69,65,66,62",
+                        "endOffsets": "113,182,252,318,385,448"
+                    }
+                }
+            ]
+        }
+    ]
+}
